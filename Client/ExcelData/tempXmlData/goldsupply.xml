@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsgoldsupply>
+  <goldsupplys>
+    <goldsupply id="100">
+      <config>
+        <item><![CDATA[1~300:300]]></item>
+        <item><![CDATA[301~1000:1000]]></item>
+        <item><![CDATA[1001~:2000]]></item>
+      </config>
+    </goldsupply>
+    <goldsupply id="101">
+      <config>
+        <item><![CDATA[1~1000:300]]></item>
+        <item><![CDATA[1001~2000:1000]]></item>
+        <item><![CDATA[2001~:2001]]></item>
+      </config>
+    </goldsupply>
+  </goldsupplys>
+</allsgoldsupply>

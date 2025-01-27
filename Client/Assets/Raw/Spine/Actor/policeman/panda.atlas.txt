@@ -1,0 +1,44 @@
+panda.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.82
+apple
+bounds:0,32,64,39
+offsets:1,0,66,39
+baody
+bounds:77,76,52,46
+rotate:90
+cheek
+bounds:64,17,54,15
+offsets:1,1,55,16
+rotate:90
+eye
+bounds:0,12,56,20
+offsets:1,1,58,22
+head
+bounds:0,71,77,57
+offsets:1,0,78,58
+left ear
+bounds:79,47,26,29
+left hand
+bounds:105,18,15,20
+rotate:90
+left leg
+bounds:105,33,21,21
+offsets:0,0,21,22
+mouth1
+bounds:97,7,17,11
+offsets:1,1,19,12
+right ear
+bounds:79,19,26,28
+right hand
+bounds:79,0,18,19
+offsets:0,0,18,20
+right leg
+bounds:105,54,22,22
+shadow
+bounds:0,4,55,8
+tail
+bounds:56,0,17,17
+offsets:1,1,18,19

@@ -1,0 +1,65 @@
+NPC_Rabbit005.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.6
+body
+bounds:58,37,53,34
+offsets:0,2,53,37
+body1
+bounds:58,73,55,37
+bubble
+bounds:81,18,28,17
+offsets:0,0,29,17
+cash
+bounds:2,2,19,20
+rotate:90
+cheek
+bounds:37,23,42,12
+offsets:1,0,43,13
+eye
+bounds:44,11,26,10
+offsets:1,0,27,10
+eye1
+bounds:44,112,29,6
+hat
+bounds:24,6,18,15
+offsets:1,1,20,17
+head
+bounds:2,65,54,45
+offsets:0,0,54,46
+left ear
+bounds:2,23,18,33
+offsets:0,1,19,34
+rotate:90
+left foot
+bounds:111,24,15,11
+offsets:1,0,16,11
+left hand
+bounds:115,91,10,11
+mouth
+bounds:113,42,7,6
+offsets:0,0,8,7
+mouth1
+bounds:113,62,12,9
+mouth2
+bounds:113,50,10,10
+right ear
+bounds:2,43,20,34
+offsets:0,0,20,35
+rotate:90
+right foot
+bounds:72,7,26,9
+offsets:1,0,28,10
+right hand
+bounds:115,79,10,10
+shadow
+bounds:2,112,40,6
+tail
+bounds:38,48,15,15
+offsets:0,1,15,16
+z2
+bounds:115,104,14,10
+rotate:90
+zz
+bounds:111,12,14,10

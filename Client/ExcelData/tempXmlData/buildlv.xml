@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsbuildlv>
+  <buildlvs>
+    <buildlv id="1" buildId="1001" level="1" step="1" name="苹果树" modelImg="tree" icon="" atlas="Icon" speed="300" fixcd="-1" productcd="2000" productItem="101" productSellPrice="15" limitnum="6" costAd="false" checknotice="false">
+      <rawitem />
+      <rawlimitnum />
+      <cost>
+        <item><![CDATA[1_2_34]]></item>
+      </cost>
+      <award />
+      <lvupAttr>
+        <item><![CDATA[1]]></item>
+      </lvupAttr>
+    </buildlv>
+    <buildlv id="2" buildId="1001" level="2" step="1" name="苹果树" modelImg="tree" icon="" atlas="Icon" speed="300" fixcd="-1" productcd="2000" productItem="101" productSellPrice="16" limitnum="6" costAd="false" checknotice="false">
+      <rawitem />
+      <rawlimitnum />
+      <cost>
+        <item><![CDATA[1_2_37]]></item>
+      </cost>
+      <award />
+      <lvupAttr>
+        <item><![CDATA[1]]></item>
+      </lvupAttr>
+    </buildlv>
+    <buildlv id="3" buildId="1001" level="3" step="1" name="苹果树" modelImg="tree" icon="" atlas="Icon" speed="300" fixcd="-1" productcd="2000" productItem="101" productSellPrice="17" limitnum="6" costAd="false" checknotice="false">
+      <rawitem />
+      <rawlimitnum />
+      <cost>
+        <item><![CDATA[1_2_39]]></item>
+      </cost>
+      <award />
+      <lvupAttr>
+        <item><![CDATA[1]]></item>
+      </lvupAttr>
+    </buildlv>
+    <buildlv id="76" buildId="2001" level="1" step="1" name="苹果货架" modelImg="bg_stage01_shelf_b01" icon="bg_stage01_shelf_b01" atlas="Scene" speed="400" fixcd="-1" productcd="-1" productItem="101" productSellPrice="0" limitnum="12" costAd="false" checknotice="false">
+      <rawitem />
+      <rawlimitnum />
+      <cost />
+      <award />
+      <lvupAttr />
+    </buildlv>
+    <buildlv id="79" buildId="3001" level="1" step="1" name="收银台" modelImg="bg_stage01_table_Long_03" icon="img_stage01_process_checkstand01" atlas="Icon" speed="400" fixcd="-1" productcd="-1" productItem="-1" productSellPrice="0" limitnum="-1" costAd="false" checknotice="false">
+      <rawitem />
+      <rawlimitnum />
+      <cost />
+      <award />
+      <lvupAttr />
+    </buildlv>
+  </buildlvs>
+</allsbuildlv>

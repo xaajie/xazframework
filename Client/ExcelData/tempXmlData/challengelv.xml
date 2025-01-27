@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allschallengelv>
+  <challengelvs>
+    <challengelv id="0" star="1" maxCustomer="4" orderpool="10000">
+      <customercd>
+        <item><![CDATA[1]]></item>
+        <item><![CDATA[3]]></item>
+      </customercd>
+      <customerpernum>
+        <item><![CDATA[3]]></item>
+        <item><![CDATA[4]]></item>
+      </customerpernum>
+    </challengelv>
+    <challengelv id="1" star="1" maxCustomer="4" orderpool="10001">
+      <customercd>
+        <item><![CDATA[1]]></item>
+        <item><![CDATA[3]]></item>
+      </customercd>
+      <customerpernum>
+        <item><![CDATA[3]]></item>
+        <item><![CDATA[4]]></item>
+      </customerpernum>
+    </challengelv>
+    <challengelv id="2" star="1" maxCustomer="4" orderpool="10002">
+      <customercd>
+        <item><![CDATA[1]]></item>
+        <item><![CDATA[3]]></item>
+      </customercd>
+      <customerpernum>
+        <item><![CDATA[3]]></item>
+        <item><![CDATA[4]]></item>
+      </customerpernum>
+    </challengelv>
+    <challengelv id="3" star="1" maxCustomer="5" orderpool="10003">
+      <customercd>
+        <item><![CDATA[1]]></item>
+        <item><![CDATA[2]]></item>
+      </customercd>
+      <customerpernum>
+        <item><![CDATA[4]]></item>
+        <item><![CDATA[5]]></item>
+      </customerpernum>
+    </challengelv>
+    <challengelv id="4" star="2" maxCustomer="5" orderpool="10004">
+      <customercd>
+        <item><![CDATA[1]]></item>
+        <item><![CDATA[2]]></item>
+      </customercd>
+      <customerpernum>
+        <item><![CDATA[4]]></item>
+        <item><![CDATA[5]]></item>
+      </customerpernum>
+    </challengelv>
+    <challengelv id="5" star="2" maxCustomer="6" orderpool="10005">
+      <customercd>
+        <item><![CDATA[1]]></item>
+        <item><![CDATA[2]]></item>
+      </customercd>
+      <customerpernum>
+        <item><![CDATA[5]]></item>
+        <item><![CDATA[6]]></item>
+      </customerpernum>
+    </challengelv>
+    <challengelv id="6" star="2" maxCustomer="6" orderpool="10006">
+      <customercd>
+        <item><![CDATA[1]]></item>
+        <item><![CDATA[2]]></item>
+      </customercd>
+      <customerpernum>
+        <item><![CDATA[5]]></item>
+        <item><![CDATA[6]]></item>
+      </customerpernum>
+    </challengelv>
+    <challengelv id="7" star="2" maxCustomer="6" orderpool="10007">
+      <customercd>
+        <item><![CDATA[1]]></item>
+        <item><![CDATA[2]]></item>
+      </customercd>
+      <customerpernum>
+        <item><![CDATA[5]]></item>
+        <item><![CDATA[6]]></item>
+      </customerpernum>
+    </challengelv>
+    <challengelv id="8" star="3" maxCustomer="7" orderpool="10008">
+      <customercd>
+        <item><![CDATA[0]]></item>
+        <item><![CDATA[1]]></item>
+      </customercd>
+      <customerpernum>
+        <item><![CDATA[6]]></item>
+        <item><![CDATA[7]]></item>
+      </customerpernum>
+    </challengelv>
+    <challengelv id="9" star="3" maxCustomer="7" orderpool="10009">
+      <customercd>
+        <item><![CDATA[0]]></item>
+        <item><![CDATA[1]]></item>
+      </customercd>
+      <customerpernum>
+        <item><![CDATA[6]]></item>
+        <item><![CDATA[7]]></item>
+      </customerpernum>
+    </challengelv>
+    <challengelv id="10" star="3" maxCustomer="7" orderpool="10010">
+      <customercd>
+        <item><![CDATA[0]]></item>
+        <item><![CDATA[1]]></item>
+      </customercd>
+      <customerpernum>
+        <item><![CDATA[6]]></item>
+        <item><![CDATA[7]]></item>
+      </customerpernum>
+    </challengelv>
+  </challengelvs>
+</allschallengelv>

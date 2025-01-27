@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsnovice>
+  <novices>
+    <novice id="10001" nextId="10002" noviceType="3" desc="先跑起来吧~" preDelay="-1">
+      <finishCon>
+        <item><![CDATA[1]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[2000]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10002" nextId="10003" noviceType="2" desc="新店先解锁一个&lt;color=&quot;#ffc75c&quot;&gt;收银台&lt;/color&gt;吧！" preDelay="-1">
+      <finishCon>
+        <item><![CDATA[3]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[1]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10003" nextId="10004" noviceType="2" desc="雇佣一个萌萌哒收银员吧！" preDelay="-1">
+      <finishCon>
+        <item><![CDATA[3]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[2]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10004" nextId="10005" noviceType="2" desc="卖东西前，先解锁一个&lt;color=&quot;#ffc75c&quot;&gt;货架&lt;/color&gt;吧！" preDelay="-1">
+      <finishCon>
+        <item><![CDATA[3]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[3]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10005" nextId="10009" noviceType="2" desc="所以卖点什么吖，对啦，苹果！解锁二颗&lt;color=&quot;#ffc75c&quot;&gt;苹果树&lt;/color&gt;！" preDelay="-1">
+      <finishCon>
+        <item><![CDATA[3]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[4]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10006" nextId="10007" noviceType="4" desc="在&lt;color=&quot;#ffc75c&quot;&gt;树&lt;/color&gt;上摘下苹果，放到&lt;color=&quot;#ffc75c&quot;&gt;货架&lt;/color&gt;上来吧！" preDelay="-1">
+      <finishCon>
+        <item><![CDATA[4]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[1001]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10007" nextId="10008" noviceType="4" desc="把苹果放到&lt;color=&quot;#ffc75c&quot;&gt;货架&lt;/color&gt;上，可以重复操作再放多一些哦！" preDelay="-1">
+      <finishCon>
+        <item><![CDATA[4]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[2001]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10008" nextId="10010" noviceType="4" desc="好棒！客人自取啦，去&lt;color=&quot;#ffc75c&quot;&gt;收银台&lt;/color&gt;等着收钱吧！" preDelay="1000">
+      <finishCon>
+        <item><![CDATA[4]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[3001]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10009" nextId="10006" noviceType="2" desc="再来二颗&lt;color=&quot;#ffc75c&quot;&gt;苹果树&lt;/color&gt;，效率加倍！" preDelay="1000">
+      <finishCon>
+        <item><![CDATA[2]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[5]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10010" nextId="10011" noviceType="1" desc="点击设备按钮，可以升级&lt;color=&quot;#ffc75c&quot;&gt;苹果树&lt;/color&gt;哦！" preDelay="2000">
+      <finishCon>
+        <item><![CDATA[2]]></item>
+      </finishCon>
+      <finishConAttr />
+    </novice>
+    <novice id="10011" nextId="10012" noviceType="1" desc="升级后的&lt;color=&quot;#ffc75c&quot;&gt;苹果树&lt;/color&gt;，可以赚更多钱！" preDelay="-1">
+      <finishCon>
+        <item><![CDATA[2]]></item>
+      </finishCon>
+      <finishConAttr />
+    </novice>
+    <novice id="10012" nextId="10013" noviceType="2" desc="加油！再卖些苹果！就可以来这里解锁&lt;color=&quot;#ffc75c&quot;&gt;苹果汁设备&lt;/color&gt;啦！" preDelay="2000">
+      <finishCon>
+        <item><![CDATA[2]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[6]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10013" nextId="10014" noviceType="2" desc="再解锁一个&lt;color=&quot;#ffc75c&quot;&gt;苹果汁货柜&lt;/color&gt;，就可以卖苹果汁啦！" preDelay="2000">
+      <finishCon>
+        <item><![CDATA[2]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[7]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10014" nextId="10015" noviceType="4" desc="把摘下来的苹果，放在&lt;color=&quot;#ffc75c&quot;&gt;榨汁台&lt;/color&gt;的原料位置吧！" preDelay="2000">
+      <finishCon>
+        <item><![CDATA[4]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[1001]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10015" nextId="10016" noviceType="4" desc="把苹果放在&lt;color=&quot;#ffc75c&quot;&gt;榨汁台&lt;/color&gt;的原料位置上，就能得到苹果汁！" preDelay="-1">
+      <finishCon>
+        <item><![CDATA[4]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[4001]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10016" nextId="10017" noviceType="4" desc="把苹果汁放到&lt;color=&quot;#ffc75c&quot;&gt;苹果汁货柜&lt;/color&gt;里吧！" preDelay="-1">
+      <finishCon>
+        <item><![CDATA[4]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[4001]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10017" nextId="10018" noviceType="4" desc="苹果汁放到&lt;color=&quot;#ffc75c&quot;&gt;苹果汁货柜&lt;/color&gt;里，客人就会自取啦！" preDelay="-1">
+      <finishCon>
+        <item><![CDATA[4]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[5001]]></item>
+      </finishConAttr>
+    </novice>
+    <novice id="10018" nextId="-1" noviceType="4" desc="&lt;color=&quot;#ffc75c&quot;&gt;榨汁机&lt;/color&gt;坏啦？靠近就能修好它！" preDelay="2000">
+      <finishCon>
+        <item><![CDATA[4]]></item>
+      </finishCon>
+      <finishConAttr>
+        <item><![CDATA[4001]]></item>
+      </finishConAttr>
+    </novice>
+  </novices>
+</allsnovice>

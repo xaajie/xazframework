@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsachivement>
+  <achivements>
+    <achivement id="1001" groupId="1001" aType="6" name="雇佣收银员" desc="解锁1个兔子收银员" icon="icon_ach_1001" atlas="Icon" sort="1">
+      <param>
+        <item><![CDATA[501]]></item>
+        <item><![CDATA[1]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_100]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_300]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1002" groupId="1001" aType="1" name="解锁苹果树" desc="拥有一颗苹果树吧！" icon="tree" atlas="Scene" sort="2">
+      <param>
+        <item><![CDATA[1001]]></item>
+        <item><![CDATA[1]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_100]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_300]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1003" groupId="1001" aType="2" name="接待客人" desc="完成第1个客人订单" icon="icon_ach_1002" atlas="Icon" sort="3">
+      <param>
+        <item><![CDATA[1]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_100]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_300]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1004" groupId="1001" aType="3" name="解锁1个设备" desc="解锁原木榨汁台" icon="bg_stage01_table_Long_01" atlas="Scene" sort="4">
+      <param>
+        <item><![CDATA[4]]></item>
+        <item><![CDATA[1]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_100]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_300]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1005" groupId="1001" aType="4" name="属性升级" desc="提升玩家堆叠到2级" icon="attr_3" atlas="Icon" sort="5">
+      <param>
+        <item><![CDATA[101]]></item>
+        <item><![CDATA[3]]></item>
+        <item><![CDATA[2]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_3_2]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_3_5]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1006" groupId="1001" aType="6" name="雇佣员工" desc="解锁1名店员" icon="icon_ach_1006" atlas="Icon" sort="6">
+      <param>
+        <item><![CDATA[201]]></item>
+        <item><![CDATA[1]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_3_2]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_3_5]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1007" groupId="1001" aType="1" name="解锁甘蔗" desc="拥有一块甘蔗地吧！" icon="icon_ganzhe" atlas="Scene" sort="7">
+      <param>
+        <item><![CDATA[1002]]></item>
+        <item><![CDATA[1]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_100]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_300]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1008" groupId="1001" aType="2" name="接待客人" desc="完成5个客人订单" icon="icon_ach_1002" atlas="Icon" sort="8">
+      <param>
+        <item><![CDATA[5]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_100]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_300]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1009" groupId="1001" aType="3" name="解锁2个设备" desc="解锁原木制糖台" icon="bg_stage01_table_Long_01" atlas="Scene" sort="9">
+      <param>
+        <item><![CDATA[4]]></item>
+        <item><![CDATA[2]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_100]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_300]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1010" groupId="1001" aType="4" name="属性升级" desc="提升店员堆叠到2级" icon="attr_3" atlas="Icon" sort="10">
+      <param>
+        <item><![CDATA[201]]></item>
+        <item><![CDATA[3]]></item>
+        <item><![CDATA[2]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_3_2]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_3_5]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1011" groupId="1001" aType="1" name="解锁生菜" desc="拥有一块生菜地吧！" icon="icon_shengcai" atlas="Scene" sort="11">
+      <param>
+        <item><![CDATA[1003]]></item>
+        <item><![CDATA[1]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_100]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_300]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1012" groupId="1001" aType="2" name="接待客人" desc="完成 15个客人订单" icon="icon_ach_1002" atlas="Icon" sort="12">
+      <param>
+        <item><![CDATA[15]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_100]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_300]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1013" groupId="1001" aType="6" name="雇佣2名员工" desc="解锁 2 名员工" icon="icon_ach_1005" atlas="Icon" sort="13">
+      <param>
+        <item><![CDATA[201_202_401_501]]></item>
+        <item><![CDATA[2]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_3_2]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_3_5]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1014" groupId="1001" aType="2" name="接待客人" desc="完成30个订单" icon="icon_ach_1002" atlas="Icon" sort="15">
+      <param>
+        <item><![CDATA[30]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_100]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_300]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1015" groupId="1001" aType="6" name="雇佣员工" desc="解锁 3 名员工" icon="icon_ach_1006" atlas="Icon" sort="16">
+      <param>
+        <item><![CDATA[201_202_401_501]]></item>
+        <item><![CDATA[3]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_3_2]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_3_5]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1016" groupId="1001" aType="3" name="解锁3个设备" desc="解锁原木苹果酱台" icon="bg_stage01_table_Long_02" atlas="Scene" sort="17">
+      <param>
+        <item><![CDATA[4]]></item>
+        <item><![CDATA[3]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_100]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_300]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1017" groupId="1001" aType="2" name="接待客人" desc="完成 50 个客人订单" icon="icon_ach_1002" atlas="Icon" sort="18">
+      <param>
+        <item><![CDATA[50]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_100]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_300]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1018" groupId="1001" aType="6" name="雇佣员工" desc="解锁 4名员工" icon="icon_ach_1006" atlas="Icon" sort="19">
+      <param>
+        <item><![CDATA[201_202_401_501]]></item>
+        <item><![CDATA[4]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_3_2]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_3_5]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1019" groupId="1001" aType="5" name="第一桶金" desc="赚到5000金币" icon="icon_ach_1003" atlas="Icon" sort="20">
+      <param>
+        <item><![CDATA[5000]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_100]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_300]]></item>
+      </adAward>
+    </achivement>
+    <achivement id="1020" groupId="1002" aType="7" name="扩张店铺" desc="扩张店铺面包坊" icon="icon_ach_1004" atlas="Icon" sort="21">
+      <param>
+        <item><![CDATA[101]]></item>
+        <item><![CDATA[1]]></item>
+      </param>
+      <award>
+        <item><![CDATA[1_2_1000]]></item>
+      </award>
+      <adAward>
+        <item><![CDATA[1_2_1000]]></item>
+      </adAward>
+    </achivement>
+  </achivements>
+</allsachivement>

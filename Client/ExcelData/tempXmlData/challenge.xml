@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allschallenge>
+  <challenges>
+    <challenge id="100" nextId="101" chapterId="1" name="果蔬店" img="guanqia_1" sceneName="shop01" permoney="5" goldsupply="100" agroupId="1001" playerId="100" unlockGroupId="1000" desc="">
+      <award>
+        <item><![CDATA[1_2_2000]]></item>
+      </award>
+      <cost>
+        <item><![CDATA[1_2_100]]></item>
+      </cost>
+      <attrup>
+        <item><![CDATA[1]]></item>
+      </attrup>
+      <offlineAward>
+        <item><![CDATA[1_2_3]]></item>
+      </offlineAward>
+    </challenge>
+    <challenge id="101" nextId="102" chapterId="1" name="早餐店" img="guanqia_2" sceneName="shop02" permoney="15" goldsupply="100" agroupId="1002" playerId="100" unlockGroupId="1000" desc="">
+      <award>
+        <item><![CDATA[1_2_3000]]></item>
+      </award>
+      <cost>
+        <item><![CDATA[1_2_101]]></item>
+      </cost>
+      <attrup>
+        <item><![CDATA[2]]></item>
+      </attrup>
+      <offlineAward>
+        <item><![CDATA[1_2_3]]></item>
+      </offlineAward>
+    </challenge>
+    <challenge id="102" nextId="-1" chapterId="1" name="野店" img="guanqia_3" sceneName="shop03" permoney="20" goldsupply="100" agroupId="1001" playerId="100" unlockGroupId="1000" desc="">
+      <award>
+        <item><![CDATA[1_2_5000]]></item>
+      </award>
+      <cost>
+        <item><![CDATA[1_2_102]]></item>
+      </cost>
+      <attrup>
+        <item><![CDATA[3]]></item>
+      </attrup>
+      <offlineAward>
+        <item><![CDATA[1_2_3]]></item>
+      </offlineAward>
+    </challenge>
+  </challenges>
+</allschallenge>

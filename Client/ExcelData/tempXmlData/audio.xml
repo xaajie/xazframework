@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsaudio>
+  <audios>
+    <audio id="1" aType="1" filename="BGM01" />
+    <audio id="2" aType="2" filename="Select01" />
+    <audio id="3" aType="2" filename="uishow" />
+    <audio id="4" aType="2" filename="Pop" />
+    <audio id="5" aType="2" filename="Trash" />
+    <audio id="6" aType="2" filename="Bin" />
+    <audio id="7" aType="2" filename="Magical" />
+    <audio id="8" aType="2" filename="Kaching" />
+    <audio id="9" aType="2" filename="Thud" />
+    <audio id="10" aType="2" filename="Footstep01" />
+    <audio id="11" aType="2" filename="wakeup" />
+    <audio id="12" aType="2" filename="fix" />
+  </audios>
+</allsaudio>

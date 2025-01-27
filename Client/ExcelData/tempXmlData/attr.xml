@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsattr>
+  <attrs>
+    <attr id="1" name="售价" icon="attr_1" atlas="Icon" countType="1" />
+    <attr id="2" name="产物容量" icon="attr_2" atlas="Icon" countType="1" />
+    <attr id="3" name="堆叠数量" icon="attr_3" atlas="Icon" countType="1" />
+    <attr id="4" name="移动速度" icon="attr_4" atlas="Icon" countType="2" />
+    <attr id="5" name="线下奖励" icon="attr_5" atlas="Icon" countType="2" />
+  </attrs>
+</allsattr>

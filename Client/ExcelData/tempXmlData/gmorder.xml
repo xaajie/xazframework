@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsgmorder>
+  <gmorders>
+    <gmorder id="1" order="gold,value" desc="给玩家添加金币，支持负数" isClient="true" />
+    <gmorder id="2" order="add,大类,id,数量" desc="添加任意大类物品" isClient="true" />
+  </gmorders>
+</allsgmorder>

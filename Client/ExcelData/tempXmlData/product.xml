@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsproduct>
+  <products>
+    <product id="101" name="苹果" desc="" icon="icon_pingguo" atlas="Scene" prefab="apple" />
+    <product id="102" name="甘蔗" desc="" icon="icon_ganzhe" atlas="Scene" prefab="ganzhe" />
+    <product id="103" name="生菜" desc="" icon="icon_shengcai" atlas="Scene" prefab="shengcai" />
+    <product id="104" name="苹果汁" desc="" icon="icon_pingguozhi" atlas="Scene" prefab="apple_juice" />
+    <product id="105" name="糖块" desc="" icon="icon_tangkuai" atlas="Scene" prefab="tangkuai" />
+    <product id="106" name="沙拉" desc="" icon="icon_shala" atlas="Scene" prefab="shala" />
+    <product id="107" name="苹果酱" desc="" icon="icon_pingguojiang" atlas="Scene" prefab="apple_jiang" />
+  </products>
+</allsproduct>

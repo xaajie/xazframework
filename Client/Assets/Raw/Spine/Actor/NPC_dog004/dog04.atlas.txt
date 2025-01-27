@@ -1,0 +1,44 @@
+dog04.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.19
+body
+bounds:51,38,54,44
+eye
+bounds:38,51,30,8
+rotate:90
+eye1
+bounds:51,84,26,5
+hat
+bounds:2,2,15,13
+offsets:0,1,16,15
+head
+bounds:2,17,64,34
+rotate:90
+left ear
+bounds:38,15,21,25
+rotate:90
+left hand
+bounds:114,37,4,10
+left leg
+bounds:107,49,17,16
+offsets:3,4,20,20
+rotate:90
+mouth
+bounds:65,17,23,19
+offsets:2,0,25,20
+right ear
+bounds:90,20,16,22
+rotate:90
+right hand
+bounds:38,41,7,8
+right leg
+bounds:90,5,17,13
+offsets:0,0,18,13
+shadow
+bounds:2,83,47,6
+tail
+bounds:107,68,14,21
+zz
+bounds:109,5,15,13

@@ -1,0 +1,59 @@
+Seaotter006.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.6
+body
+bounds:2,16,50,31
+offsets:0,0,61,31
+body1
+bounds:75,45,55,37
+rotate:90
+bubble
+bounds:54,26,28,17
+offsets:0,0,29,17
+cheek
+bounds:84,33,40,10
+offsets:1,0,41,10
+eye
+bounds:84,23,30,8
+eye1
+bounds:44,94,29,6
+hat
+bounds:71,12,22,9
+offsets:0,1,22,11
+head
+bounds:2,49,63,43
+left ear
+bounds:14,5,11,9
+offsets:1,1,13,10
+left hand
+bounds:82,2,7,8
+left leg
+bounds:71,2,9,8
+offsets:0,0,10,8
+mouth
+bounds:27,6,12,8
+mouth1
+bounds:114,53,12,9
+mouth2
+bounds:2,4,10,10
+right ear
+bounds:54,10,14,15
+offsets:0,1,14,16
+rotate:90
+right hand
+bounds:114,64,12,16
+offsets:0,0,13,17
+right leg
+bounds:41,6,10,8
+shadow
+bounds:2,94,40,6
+tail
+bounds:114,82,18,12
+offsets:0,0,19,20
+rotate:90
+z2
+bounds:111,11,14,10
+zz
+bounds:95,11,14,10

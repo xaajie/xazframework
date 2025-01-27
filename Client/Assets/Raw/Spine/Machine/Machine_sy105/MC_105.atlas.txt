@@ -1,0 +1,11 @@
+MC_105.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:1.2
+blin
+bounds:88,2,84,105
+offsets:1,1,86,107
+ui_icon_checkstand
+bounds:2,2,84,105
+offsets:1,1,86,107

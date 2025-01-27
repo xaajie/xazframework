@@ -1,0 +1,31 @@
+//----------------------------------------------------------------------------
+//-- view
+//-- <write your instructions here>
+//-- @author #AUTHOR#
+//----------------------------------------------------------------------------
+using System.Collections.Generic;
+using UnityEngine;
+using Xaz;
+
+public class #NAME# : Base#NAME#
+{
+    protected override void OnOpened()
+    {
+        base.OnOpened();
+    }
+
+	override protected void OnValueChanged(Component com, object value)
+    {
+        base.OnValueChanged(com, value);
+    }
+
+    override protected void OnTableViewCellInit(UITableView tableView, UITableViewCell tableCell, object data)
+    {
+        base.OnTableViewCellInit(tableView, tableCell, data);
+    }
+
+    protected override void OnButtonClick(Component com)
+    {
+        base.OnButtonClick(com);
+    }
+}

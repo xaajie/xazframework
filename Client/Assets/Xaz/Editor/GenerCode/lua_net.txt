@@ -1,0 +1,27 @@
+//----------------------------------------------------------------------------
+//-- #NAME#模块协议
+//-- @author #AUTHOR#
+//----------------------------------------------------------------------------
+using UnityEngine;
+using Xaz;
+public class #NAME# : NetModuleBase
+{
+    public #NAME#()
+    {
+        //this.Register(ProtocolEnum.LOGIN_BACK, OnLoginCallBack);
+    }
+
+    //private void OnLoginCallBack(INetData vt)
+    //{
+    //}
+
+    //public void SendLogin(string id, string key)
+    //{
+    //     this.Request(ProtocolEnum.LOGIN, new LoginSend(id, key));
+    //}
+
+    override public void Release()
+    {
+        base.Release();
+    }
+}

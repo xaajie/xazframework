@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsshop>
+  <shops>
+    <shop id="101001" shopGroup="101" name="小袋爪爪币" icon="ui_icon_fundsources01" atlas="Icon" itemType="1" itemId="2" itemNum="10" buyType="0" cost="" adBuyCD="-1" sort="1">
+      <limitNum>
+        <item><![CDATA[2]]></item>
+        <item><![CDATA[1]]></item>
+      </limitNum>
+    </shop>
+    <shop id="101002" shopGroup="101" name="中袋爪爪币" icon="ui_icon_fundsources02" atlas="Icon" itemType="1" itemId="2" itemNum="300" buyType="1" cost="0" adBuyCD="-1" sort="2">
+      <limitNum>
+        <item><![CDATA[3]]></item>
+        <item><![CDATA[-1]]></item>
+      </limitNum>
+    </shop>
+    <shop id="101003" shopGroup="101" name="大袋爪爪币" icon="ui_icon_fundsources03" atlas="Icon" itemType="1" itemId="2" itemNum="1000" buyType="1" cost="0" adBuyCD="600" sort="3">
+      <limitNum>
+        <item><![CDATA[2]]></item>
+        <item><![CDATA[3]]></item>
+      </limitNum>
+    </shop>
+  </shops>
+</allsshop>

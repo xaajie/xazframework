@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allscurrency>
+  <currencys>
+    <currency id="1" name="经验" desc="经验" icon="icon_lv" atlas="Common" quality="1" />
+    <currency id="2" name="爪爪币" desc="爪爪币" icon="Icon_Money" atlas="Common" quality="3" />
+    <currency id="3" name="星芒" desc="星芒" icon="UI_Icon_Gem" atlas="Common" quality="3" />
+    <currency id="4" name="跳过广告券" desc="跳过广告券" icon="UI_Icon_SkipAD" atlas="Common" quality="2" />
+  </currencys>
+</allscurrency>

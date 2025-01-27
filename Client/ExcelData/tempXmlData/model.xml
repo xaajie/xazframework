@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsmodel>
+  <models>
+    <model id="4201" prefabpath="Prefabs/Actor/cashworker.prefab" />
+    <model id="4202" prefabpath="Prefabs/Actor/treeworker.prefab" />
+    <model id="4203" prefabpath="Prefabs/Actor/treeworker.prefab" />
+    <model id="4204" prefabpath="Prefabs/Actor/chef.prefab" />
+    <model id="4205" prefabpath="Prefabs/Actor/chef.prefab" />
+    <model id="4401" prefabpath="Prefabs/Actor/guard.prefab" />
+    <model id="4301" prefabpath="Prefabs/Actor/customer1.prefab" />
+    <model id="4302" prefabpath="Prefabs/Actor/customer2.prefab" />
+    <model id="4303" prefabpath="Prefabs/Actor/customer4.prefab" />
+    <model id="4304" prefabpath="Prefabs/Actor/customer4.prefab" />
+    <model id="31001" prefabpath="Prefabs/Build/appletree.prefab" />
+    <model id="31002" prefabpath="Prefabs/Build/zhiwu.prefab" />
+    <model id="31003" prefabpath="Prefabs/Build/zhiwu.prefab" />
+    <model id="32001" prefabpath="Prefabs/Build/shelf_apple.prefab" />
+    <model id="32002" prefabpath="Prefabs/Build/shelf_ganzhe.prefab" />
+    <model id="32003" prefabpath="Prefabs/Build/shelf_baicai.prefab" />
+    <model id="33001" prefabpath="Prefabs/Build/cash.prefab" />
+    <model id="34001" prefabpath="Prefabs/Build/machine_apple.prefab" />
+    <model id="34002" prefabpath="Prefabs/Build/machine_tang.prefab" />
+    <model id="34003" prefabpath="Prefabs/Build/machine_shala.prefab" />
+    <model id="34004" prefabpath="Prefabs/Build/applejiang.prefab" />
+    <model id="35001" prefabpath="Prefabs/Build/gui_apple.prefab" />
+    <model id="35002" prefabpath="Prefabs/Build/gui_tang.prefab" />
+    <model id="35003" prefabpath="Prefabs/Build/gui_shala.prefab" />
+    <model id="35004" prefabpath="Prefabs/Build/gui_jiang.prefab" />
+  </models>
+</allsmodel>

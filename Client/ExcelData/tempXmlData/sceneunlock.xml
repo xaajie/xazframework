@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allssceneunlock>
+  <sceneunlocks>
+    <sceneunlock id="1" unlockId="1000" sort="1" cost="50" posId="6" happenId="-1" challengeLv="0" noviceNocam="false">
+      <category>
+        <item><![CDATA[3_3001]]></item>
+      </category>
+      <createPos>
+        <item><![CDATA[6]]></item>
+      </createPos>
+    </sceneunlock>
+    <sceneunlock id="2" unlockId="1000" sort="2" cost="100" posId="7" happenId="1001" challengeLv="0" noviceNocam="false">
+      <category>
+        <item><![CDATA[4_201]]></item>
+      </category>
+      <createPos>
+        <item><![CDATA[7]]></item>
+      </createPos>
+    </sceneunlock>
+    <sceneunlock id="3" unlockId="1000" sort="3" cost="150" posId="20" happenId="1003" challengeLv="1" noviceNocam="false">
+      <category>
+        <item><![CDATA[3_2001]]></item>
+      </category>
+      <createPos>
+        <item><![CDATA[20]]></item>
+      </createPos>
+    </sceneunlock>
+    <sceneunlock id="4" unlockId="1000" sort="4" cost="50" posId="0" happenId="1004" challengeLv="1" noviceNocam="false">
+      <category>
+        <item><![CDATA[3_1001]]></item>
+        <item><![CDATA[3_1001]]></item>
+      </category>
+      <createPos>
+        <item><![CDATA[0]]></item>
+        <item><![CDATA[3]]></item>
+      </createPos>
+    </sceneunlock>
+    <sceneunlock id="5" unlockId="1000" sort="5" cost="75" posId="1" happenId="-1" challengeLv="2" noviceNocam="true">
+      <category>
+        <item><![CDATA[3_1001]]></item>
+        <item><![CDATA[3_1001]]></item>
+      </category>
+      <createPos>
+        <item><![CDATA[1]]></item>
+        <item><![CDATA[4]]></item>
+      </createPos>
+    </sceneunlock>
+  </sceneunlocks>
+</allssceneunlock>

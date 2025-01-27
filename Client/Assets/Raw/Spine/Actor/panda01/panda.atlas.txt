@@ -1,0 +1,67 @@
+panda.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.69
+abdomen
+bounds:36,5,26,28
+rotate:90
+apple
+bounds:113,86,23,15
+rotate:90
+baody
+bounds:67,89,44,39
+baody1
+bounds:0,31,63,43
+bubble
+bounds:63,51,32,20
+offsets:0,0,33,20
+cheek
+bounds:67,78,43,11
+dirt01
+bounds:116,12,10,9
+dirt02
+bounds:110,3,10,9
+eye
+bounds:89,17,27,8
+rotate:90
+eye1
+bounds:63,44,34,7
+eyebrow
+bounds:64,11,25,9
+head
+bounds:0,74,67,54
+offsets:1,1,68,55
+left ear
+bounds:64,20,25,24
+offsets:0,1,25,26
+left hand
+bounds:95,57,12,14
+left leg
+bounds:111,109,17,19
+mouth
+bounds:107,62,14,8
+mouth1
+bounds:96,3,14,10
+mouth2
+bounds:116,21,11,12
+rotate:90
+right ear
+bounds:97,32,25,24
+offsets:1,0,26,25
+rotate:90
+right hand
+bounds:113,70,15,16
+offsets:0,1,15,17
+right leg
+bounds:97,13,19,19
+shadow
+bounds:67,71,46,7
+tail
+bounds:0,6,25,36
+offsets:1,0,26,36
+rotate:90
+z1
+bounds:64,0,16,11
+z2
+bounds:80,0,16,11

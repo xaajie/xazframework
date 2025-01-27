@@ -1,0 +1,48 @@
+Cat001.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.8
+body
+bounds:2,17,65,49
+offsets:1,0,66,49
+cheek
+bounds:81,70,56,20
+offsets:0,0,56,21
+rotate:90
+eye
+bounds:109,65,33,9
+offsets:1,0,34,9
+rotate:90
+head
+bounds:2,68,77,48
+offsets:0,0,77,50
+left ear
+bounds:81,41,26,27
+left foot
+bounds:18,5,18,10
+left hand
+bounds:98,9,14,17
+offsets:1,0,15,17
+rotate:90
+mouth
+bounds:54,4,12,11
+offsets:0,0,14,11
+mouth1
+bounds:38,3,14,12
+offsets:1,0,16,12
+mouth2
+bounds:2,2,13,14
+rotate:90
+right ear
+bounds:69,15,24,27
+rotate:90
+right foot
+bounds:98,25,18,14
+right hand
+bounds:109,45,14,18
+offsets:0,0,14,19
+shadow
+bounds:2,118,54,8
+tail
+bounds:103,100,21,26

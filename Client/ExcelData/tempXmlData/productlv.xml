@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsproductlv>
+  <productlvs>
+    <productlv id="1" buildId="101" level="1" sellPrice="5" bindBuild="">
+      <cost>
+        <item><![CDATA[1_2_5]]></item>
+      </cost>
+      <award />
+    </productlv>
+    <productlv id="2" buildId="101" level="2" sellPrice="6" bindBuild="">
+      <cost>
+        <item><![CDATA[1_2_6]]></item>
+      </cost>
+      <award>
+        <item><![CDATA[1_3_1]]></item>
+      </award>
+    </productlv>
+    <productlv id="3" buildId="102" level="1" sellPrice="10" bindBuild="">
+      <cost>
+        <item><![CDATA[1_2_7]]></item>
+      </cost>
+      <award />
+    </productlv>
+    <productlv id="4" buildId="102" level="2" sellPrice="12" bindBuild="">
+      <cost>
+        <item><![CDATA[1_2_8]]></item>
+      </cost>
+      <award />
+    </productlv>
+    <productlv id="5" buildId="103" level="1" sellPrice="8" bindBuild="">
+      <cost>
+        <item><![CDATA[1_2_9]]></item>
+      </cost>
+      <award />
+    </productlv>
+    <productlv id="6" buildId="103" level="2" sellPrice="9" bindBuild="">
+      <cost>
+        <item><![CDATA[1_2_10]]></item>
+      </cost>
+      <award />
+    </productlv>
+    <productlv id="7" buildId="103" level="3" sellPrice="10" bindBuild="">
+      <cost>
+        <item><![CDATA[1_2_11]]></item>
+      </cost>
+      <award />
+    </productlv>
+  </productlvs>
+</allsproductlv>

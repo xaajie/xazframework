@@ -1,0 +1,19 @@
+游戏内大类区分
+    public enum Category
+    {
+        //货币属性表currency
+        CURRENCY = 1,
+        //功能建筑表build
+        BUILD = 3,
+        //角色表actor
+        ACTOR = 4,
+        //产物表
+        PRODUCT=2,
+        //物品表item
+        ITEM = 5,
+        //buff
+        BUFF = 6，
+    }
+
+
+音效网站：https://sc.chinaz.com/yinxiao/131126435170.htm

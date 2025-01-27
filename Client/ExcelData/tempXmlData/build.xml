@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsbuild>
+  <builds>
+    <build id="1001" name="苹果树" desc="" buildType="1" showlvup="true" sort="1" modelId="31001" />
+    <build id="1002" name="甘蔗" desc="" buildType="1" showlvup="true" sort="2" modelId="31002" />
+    <build id="1003" name="白菜" desc="" buildType="1" showlvup="true" sort="3" modelId="31003" />
+    <build id="2001" name="苹果货架" desc="" buildType="2" showlvup="false" sort="4" modelId="32001" />
+    <build id="2002" name="甘蔗货架" desc="" buildType="2" showlvup="false" sort="5" modelId="32002" />
+    <build id="2003" name="白菜货架" desc="" buildType="2" showlvup="false" sort="6" modelId="32003" />
+    <build id="3001" name="收银台" desc="" buildType="3" showlvup="false" sort="7" modelId="33001" />
+    <build id="4001" name="苹果榨汁台" desc="" buildType="4" showlvup="true" sort="8" modelId="34001" />
+    <build id="4002" name="甘蔗制糖台" desc="" buildType="4" showlvup="true" sort="9" modelId="34002" />
+    <build id="4003" name="白菜沙拉台" desc="" buildType="4" showlvup="true" sort="10" modelId="34003" />
+    <build id="4004" name="苹果酱台（苹果+糖）" desc="" buildType="4" showlvup="true" sort="11" modelId="34004" />
+    <build id="5001" name="苹果汁货柜" desc="" buildType="2" showlvup="false" sort="12" modelId="35001" />
+    <build id="5002" name="糖块货柜" desc="" buildType="2" showlvup="false" sort="13" modelId="35002" />
+    <build id="5003" name="沙拉货柜" desc="" buildType="2" showlvup="false" sort="14" modelId="35003" />
+    <build id="5004" name="苹果酱货柜" desc="" buildType="2" showlvup="false" sort="15" modelId="35004" />
+  </builds>
+</allsbuild>

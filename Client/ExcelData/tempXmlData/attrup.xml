@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsattrup>
+  <attrups>
+    <attrup id="1" buffId="10" groupId="10" desc="增加主角堆叠数量" level="1" costAd="true" cost="1_3_5" icon="attr_3" atlas="Icon" sort="-1" />
+    <attrup id="2" buffId="11" groupId="10" desc="增加主角堆叠数量" level="2" costAd="false" cost="1_3_5" icon="attr_3" atlas="Icon" sort="-1" />
+    <attrup id="3" buffId="12" groupId="10" desc="增加主角堆叠数量" level="3" costAd="true" cost="" icon="attr_3" atlas="Icon" sort="-1" />
+    <attrup id="4" buffId="13" groupId="13" desc="增加店员堆叠数量" level="1" costAd="true" cost="1_3_5" icon="attr_5" atlas="Icon" sort="-1" />
+    <attrup id="5" buffId="14" groupId="13" desc="增加店员堆叠数量" level="2" costAd="false" cost="1_3_6" icon="attr_5" atlas="Icon" sort="-1" />
+    <attrup id="6" buffId="15" groupId="13" desc="增加店员堆叠数量" level="3" costAd="false" cost="1_3_7" icon="attr_5" atlas="Icon" sort="-1" />
+    <attrup id="7" buffId="16" groupId="16" desc="增加厨师堆叠数量" level="1" costAd="true" cost="1_3_5" icon="attr_7" atlas="Icon" sort="-1" />
+    <attrup id="8" buffId="17" groupId="16" desc="增加厨师堆叠数量" level="2" costAd="false" cost="1_3_6" icon="attr_7" atlas="Icon" sort="-1" />
+    <attrup id="9" buffId="18" groupId="16" desc="增加厨师堆叠数量" level="3" costAd="false" cost="1_3_7" icon="attr_7" atlas="Icon" sort="-1" />
+    <attrup id="10" buffId="19" groupId="19" desc="店员移动速度" level="1" costAd="true" cost="1_3_5" icon="attr_6" atlas="Icon" sort="-1" />
+    <attrup id="11" buffId="20" groupId="19" desc="店员移动速度" level="2" costAd="false" cost="1_3_6" icon="attr_6" atlas="Icon" sort="-1" />
+    <attrup id="12" buffId="21" groupId="19" desc="店员移动速度" level="3" costAd="false" cost="1_3_7" icon="attr_6" atlas="Icon" sort="-1" />
+    <attrup id="13" buffId="22" groupId="22" desc="厨师移动速度" level="1" costAd="true" cost="1_3_5" icon="attr_8" atlas="Icon" sort="-1" />
+    <attrup id="14" buffId="23" groupId="22" desc="厨师移动速度" level="2" costAd="false" cost="1_3_6" icon="attr_8" atlas="Icon" sort="-1" />
+    <attrup id="15" buffId="24" groupId="22" desc="厨师移动速度" level="3" costAd="false" cost="1_3_7" icon="attr_8" atlas="Icon" sort="-1" />
+  </attrups>
+</allsattrup>

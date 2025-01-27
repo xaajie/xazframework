@@ -1,0 +1,65 @@
+clerk.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.66
+abdomen
+bounds:24,10,24,26
+apple
+bounds:63,101,62,27
+offsets:0,0,62,28
+baody
+bounds:63,64,42,37
+baody1
+bounds:0,36,60,41
+bubble
+bounds:60,34,31,19
+offsets:0,0,32,19
+cheek
+bounds:60,53,41,11
+dirt01
+bounds:37,0,10,9
+rotate:90
+dirt02
+bounds:72,0,10,9
+eye
+bounds:48,12,26,8
+eye1
+bounds:48,20,32,7
+eyebrow
+bounds:48,3,24,9
+head
+bounds:0,77,63,51
+offsets:1,1,65,52
+left ear
+bounds:105,54,23,23
+offsets:1,1,24,25
+left hand
+bounds:80,13,11,14
+left leg
+bounds:91,35,17,18
+mouth
+bounds:82,0,13,7
+rotate:90
+mouth1
+bounds:24,0,13,10
+mouth2
+bounds:107,14,11,11
+right ear
+bounds:105,77,24,23
+offsets:1,0,25,24
+rotate:90
+right hand
+bounds:92,20,15,15
+offsets:0,1,15,16
+right leg
+bounds:108,36,18,18
+shadow
+bounds:48,27,44,7
+tail
+bounds:0,2,24,34
+offsets:1,0,25,34
+z1
+bounds:91,9,15,11
+z2
+bounds:108,25,15,11

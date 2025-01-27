@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allshappening>
+  <happenings>
+    <happening id="1001" hType="1" name="嘿！幸运宝袋" desc="获得爪爪币+500" pic="ui_icon_fundsources02" icon="ui_icon_fundsources02" atlas="Icon" refreshcd="1200" duration="550">
+      <param>
+        <item><![CDATA[1_2_500]]></item>
+      </param>
+    </happening>
+    <happening id="1002" hType="2" name="咦！雇佣临时工" desc="雇佣临时店员" pic="icon_ach_1005" icon="icon_ach_1005" atlas="Icon" refreshcd="1200" duration="500">
+      <param>
+        <item><![CDATA[100]]></item>
+      </param>
+    </happening>
+    <happening id="1003" hType="2" name="哇！疯狂加速" desc="移动速度+40%" pic="attr_4" icon="attr_4" atlas="Icon" refreshcd="1200" duration="500">
+      <param>
+        <item><![CDATA[101]]></item>
+      </param>
+    </happening>
+    <happening id="1004" hType="2" name="哈！力大无穷" desc="堆叠上限+5" pic="icon_event_energetically" icon="icon_event_energetically" atlas="Icon" refreshcd="1200" duration="500">
+      <param>
+        <item><![CDATA[102]]></item>
+      </param>
+    </happening>
+  </happenings>
+</allshappening>

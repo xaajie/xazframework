@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsbuff>
+  <buffs>
+    <buff id="10" buffType="1" attrId="3" buffparm="101" attrval="1" effectTime="-1" />
+    <buff id="11" buffType="1" attrId="3" buffparm="101" attrval="2" effectTime="-1" />
+    <buff id="12" buffType="1" attrId="3" buffparm="101" attrval="3" effectTime="-1" />
+    <buff id="13" buffType="1" attrId="3" buffparm="201" attrval="1" effectTime="-1" />
+    <buff id="14" buffType="1" attrId="3" buffparm="201" attrval="2" effectTime="-1" />
+    <buff id="15" buffType="1" attrId="3" buffparm="201" attrval="3" effectTime="-1" />
+    <buff id="16" buffType="1" attrId="3" buffparm="202" attrval="1" effectTime="-1" />
+    <buff id="17" buffType="1" attrId="3" buffparm="202" attrval="2" effectTime="-1" />
+    <buff id="18" buffType="1" attrId="3" buffparm="202" attrval="3" effectTime="-1" />
+    <buff id="19" buffType="1" attrId="4" buffparm="201" attrval="30" effectTime="-1" />
+    <buff id="20" buffType="1" attrId="4" buffparm="201" attrval="40" effectTime="-1" />
+    <buff id="21" buffType="1" attrId="4" buffparm="201" attrval="50" effectTime="-1" />
+    <buff id="22" buffType="1" attrId="4" buffparm="202" attrval="30" effectTime="-1" />
+    <buff id="23" buffType="1" attrId="4" buffparm="202" attrval="40" effectTime="-1" />
+    <buff id="24" buffType="1" attrId="4" buffparm="202" attrval="50" effectTime="-1" />
+    <buff id="100" buffType="2" attrId="-1" buffparm="205" attrval="-1" effectTime="120" />
+    <buff id="101" buffType="1" attrId="4" buffparm="101" attrval="40" effectTime="30" />
+    <buff id="102" buffType="1" attrId="3" buffparm="101" attrval="5" effectTime="30" />
+  </buffs>
+</allsbuff>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsactor>
+  <actors>
+    <actor id="100" actorType="101" walkspeed="480" Capacity="4" sleepCd="-1" name="米可" funcDesc="" desc="店长米可，跑步速度超快，总是活力四射" checknotice="false" atlas="Icon" icon="" headIcon="et_famer" modelId="-1">
+      <putBuildIds />
+      <rawBuildIds />
+    </actor>
+    <actor id="201" actorType="501" walkspeed="-1" Capacity="-1" sleepCd="-1" name="妮妮" funcDesc="收银员" desc="收银员妮妮，害羞的兔子妹妹，但计算能力超强" checknotice="false" atlas="Icon" icon="icon_ach_1001" headIcon="" modelId="4201">
+      <putBuildIds />
+      <rawBuildIds />
+    </actor>
+    <actor id="202" actorType="201" walkspeed="180" Capacity="3" sleepCd="70000" name="店员小一" funcDesc="负责货架上货" desc="店员小一，看起来呆呆的，偶尔偷懒，喜欢听摇滚" checknotice="true" atlas="Icon" icon="icon_ach_1006" headIcon="et_shelf" modelId="4202">
+      <putBuildIds>
+        <item><![CDATA[2001]]></item>
+        <item><![CDATA[5001]]></item>
+        <item><![CDATA[5004]]></item>
+      </putBuildIds>
+      <rawBuildIds />
+    </actor>
+    <actor id="203" actorType="202" walkspeed="180" Capacity="3" sleepCd="70000" name="厨师阿雅" funcDesc="负责搬运设备原料" desc="厨师阿雅，喜欢研究美食，最爱看吃播" checknotice="true" atlas="Icon" icon="icon_ach_1005" headIcon="et_chushi" modelId="4204">
+      <putBuildIds />
+      <rawBuildIds>
+        <item><![CDATA[4001]]></item>
+        <item><![CDATA[4002]]></item>
+      </rawBuildIds>
+    </actor>
+    <actor id="204" actorType="201" walkspeed="180" Capacity="3" sleepCd="70000" name="店员欧姆" funcDesc="负责货架上货" desc="店员欧姆，脾气有点暴躁，但一哄就会笑" checknotice="true" atlas="Icon" icon="icon_ach_1006" headIcon="et_shelf" modelId="4203">
+      <putBuildIds>
+        <item><![CDATA[2002]]></item>
+        <item><![CDATA[2003]]></item>
+        <item><![CDATA[5002]]></item>
+      </putBuildIds>
+      <rawBuildIds />
+    </actor>
+    <actor id="205" actorType="202" walkspeed="180" Capacity="3" sleepCd="70000" name="厨师波比" funcDesc="负责搬运设备原料" desc="厨师波比，很有个性，爱好机械舞，烹饪场面极度吸睛" checknotice="true" atlas="Icon" icon="icon_ach_1005" headIcon="et_chushi" modelId="4205">
+      <putBuildIds />
+      <rawBuildIds>
+        <item><![CDATA[4003]]></item>
+        <item><![CDATA[4004]]></item>
+      </rawBuildIds>
+    </actor>
+    <actor id="301" actorType="301" walkspeed="140" Capacity="4" sleepCd="-1" name="" funcDesc="" desc="" checknotice="false" atlas="Icon" icon="" headIcon="" modelId="4301">
+      <putBuildIds />
+      <rawBuildIds />
+    </actor>
+    <actor id="302" actorType="301" walkspeed="140" Capacity="4" sleepCd="-1" name="" funcDesc="" desc="" checknotice="false" atlas="Icon" icon="" headIcon="" modelId="4302">
+      <putBuildIds />
+      <rawBuildIds />
+    </actor>
+    <actor id="303" actorType="301" walkspeed="140" Capacity="4" sleepCd="-1" name="" funcDesc="" desc="" checknotice="false" atlas="Icon" icon="" headIcon="" modelId="4303">
+      <putBuildIds />
+      <rawBuildIds />
+    </actor>
+    <actor id="304" actorType="301" walkspeed="140" Capacity="4" sleepCd="-1" name="" funcDesc="" desc="" checknotice="false" atlas="Icon" icon="" headIcon="" modelId="4304">
+      <putBuildIds />
+      <rawBuildIds />
+    </actor>
+    <actor id="401" actorType="401" walkspeed="180" Capacity="-1" sleepCd="180000" name="谷仔" funcDesc="负责修理设备，叫醒店员" desc="保安谷仔，据说曾在某神秘组织服役，身负各种绝技" checknotice="false" atlas="Icon" icon="icon_ach_1007" headIcon="icon_ach_1007" modelId="4401">
+      <putBuildIds />
+      <rawBuildIds />
+    </actor>
+  </actors>
+</allsactor>

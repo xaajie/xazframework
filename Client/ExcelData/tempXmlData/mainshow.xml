@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allsmainshow>
+  <mainshows>
+    <mainshow id="1" name="地图" showtype="-1" debugClose="true" atlas="" icon="" sortIndex="1" systemOpenId="-1" funcGotoId="-1" />
+    <mainshow id="2" name="小目标" showtype="-1" debugClose="false" atlas="" icon="" sortIndex="1" systemOpenId="-1" funcGotoId="-1" />
+    <mainshow id="3" name="角色" showtype="1" debugClose="false" atlas="Common" icon="ui_icon_mian_stats" sortIndex="2" systemOpenId="-1" funcGotoId="-1" />
+    <mainshow id="4" name="设备" showtype="1" debugClose="false" atlas="Common" icon="ui_icon_mian_unit" sortIndex="3" systemOpenId="-1" funcGotoId="-1" />
+    <mainshow id="5" name="服装" showtype="1" debugClose="true" atlas="Common" icon="ui_icon_mian_outfit" sortIndex="5" systemOpenId="-1" funcGotoId="-1" />
+    <mainshow id="6" name="装修" showtype="1" debugClose="false" atlas="Common" icon="ui_icon_mian_homedecoration" sortIndex="6" systemOpenId="-1" funcGotoId="-1" />
+    <mainshow id="7" name="商城" showtype="1" debugClose="false" atlas="Common" icon="UI_Icon_Main_Shop" sortIndex="4" systemOpenId="-1" funcGotoId="-1" />
+  </mainshows>
+</allsmainshow>
